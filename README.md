@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 2019 VEX Competition Page
 
 You can use the [editor on GitHub](https://github.com/somersfield-robotics/2019_competition/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
