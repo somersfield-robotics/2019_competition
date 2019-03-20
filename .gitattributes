@@ -8,7 +8,6 @@
 *.h text
 *.h++ text
 *.hh text
-*.vex text
 
 # Compiled Object files
 *.slo binary
@@ -35,3 +34,6 @@
 *.exe binary
 *.out binary
 *.app binary
+
+# RAR file
+*.vex binary
